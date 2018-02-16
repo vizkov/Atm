@@ -58,7 +58,7 @@ int cursor = 0;           //a cursor to track save ponits
 
 void clear()
 {
-  system("clear"); //replace with cls for ubuntu :p
+  system("cls"); //replace with clear for windows :p
 }
 
 int calc_hash(int x)
