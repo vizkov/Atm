@@ -23,7 +23,7 @@ int ui_commit();
 
 /*
 
-  table colms referenced as :
+  table column referenced as :
   0:TRANSACTION ID
   1:ACCOUNT NAME
   2:ACCOUNT NUMBER
